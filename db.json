@@ -1,0 +1,76 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "image": "https://dl.next1code.ir/images/react/article1.webp",
+      "title": "جاوا اسکریب",
+      "desc": "جاوا اسکریب چگونه کار میکند و چرا ما از ان و در کدام شرایط استفاده کنیم در نهایت چه مزیت های دارد نظر به دیگر زبانها",
+      "writter": "مهدیار",
+      "category": "برنامه نویسی وب",
+      "readingTime": "21",
+      "article": {
+        "id": "1",
+        "image": "https://dl.next1code.ir/images/react/article1.webp",
+        "title": "جاوااسکریب",
+        "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است .",
+        "writter": "مهدیار",
+        "category": "برنامه نویسی وب",
+        "readingTime": "5"
+      }
+    },
+    {
+      "id": "3",
+      "image": "https://dl.next1code.ir/images/react/article3.webp",
+      "title": "htm and css",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است .",
+      "writter": "احمد زی",
+      "category": "طراحی وب",
+      "readingTime": "15"
+    },
+    {
+      "id": "4",
+      "image": "https://dl.next1code.ir/images/react/article4.webp",
+      "title": "عنوان مقاله چهارم",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است .",
+      "writter": "محمد محمدی",
+      "category": "برنامه نویسی وب",
+      "readingTime": "16"
+    },
+    {
+      "id": "5",
+      "image": "https://dl.next1code.ir/images/react/article5.webp",
+      "title": "سی اس اس ",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است .",
+      "writter": "اکبر واحدی",
+      "category": "هوش مصنوعی",
+      "readingTime": "13"
+    },
+    {
+      "id": "6",
+      "image": "https://dl.next1code.ir/images/react/article6.webp",
+      "title": "عنوان مقاله ششم",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است .",
+      "writter": "عباس",
+      "category": "رابط کاربری",
+      "readingTime": "15"
+    },
+    {
+      "id": "7",
+      "image": "https://dl.next1code.ir/images/react/article7.webp",
+      "title": "عنوان مقاله هفتم",
+      "desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است .",
+      "writter": "عباس",
+      "category": "برنامه نویسی وب",
+      "readingTime": "20"
+    },
+    {
+      "title": "جدید",
+      "desc": "برای اولین بار در افغانستان که تا هنوز کسی درباره اش صحبت نکرده و این بار شما را با ان اشنا میسازیم",
+      "writter": "خودت",
+      "category": "بیخی جدید",
+      "image": "https://dl.next1code.ir/images/react/article5.webp",
+      "readingTime": "23",
+      "id": "TEWQzjrmG_U"
+    }
+  ]
+}

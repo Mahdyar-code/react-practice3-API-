@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@font-face {
+    font-family: 'lalazar';
+    src: url("../src/assets/font/Lalezar-Regular.ttf");
+}
+@font-face {
+    font-family: 'yakan';
+    src: url("../src/assets/font/Yekan.ttf");
+}
+*{
+    box-sizing: border-box;
+    font-family: 'yakan' sans-serif;
+}
+.lalazar{
+    font-family:'lalazar';
+}
